@@ -1,5 +1,5 @@
 <?php
-namespace MyPlot;
+namespace MyCELL;
 
 use pocketmine\block\Block;
 
